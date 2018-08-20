@@ -1,13 +1,15 @@
 {
-  "description": "dangjain",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxe62abe18e9c03ef8",
-  "projectname": "dangjian-weapp",
-  "miniprogramRoot": "./dist"
+	"description": "dangjain",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxe62abe18e9c03ef8",
+	"projectname": "dangjian-weapp",
+	"miniprogramRoot": "./dist",
+	"condition": {}
 }

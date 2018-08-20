@@ -38,7 +38,7 @@ export default class extends wepy.app {
         "iconPath": "images/party.png",
         "selectedIconPath": "images/party_selected.png"
       }, {
-        "pagePath": "pages/home",
+        "pagePath": "pages/me",
         "text": "个人",
         "iconPath": "images/me.png",
         "selectedIconPath": "images/me_selected.png"
